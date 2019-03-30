@@ -27,7 +27,7 @@ The tools that are downloaded during env initialisation are:
  To initialise your workspace you need to run `direnv allow .` in the root folder. All tools are to be downloaded in the `bin/` folder and `PATH` env variable to to be updated.
 
  **NOTE:**
-  Please not that `KUBECONFIG` env variable by defalt points to `${HOME}/.kube/config`
+  Please note `KUBECONFIG` env variable by defalt points to `${HOME}/.kube/config`
 
 # License
 
