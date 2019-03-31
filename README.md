@@ -12,6 +12,7 @@ The tools that are downloaded during env initialisation are:
 
  - [Kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/)
  - [CFSSL && CFSSL Json](https://github.com/cloudflare/cfssl)
+ - [Helm](https://helm.sh/)
  - [Kubectx \& Kubens](https://github.com/ahmetb/kubectx)
  - [Kubebox](https://github.com/astefanutti/kubebox/)
  - [Kubetail](https://github.com/johanhaleby/kubetail)
