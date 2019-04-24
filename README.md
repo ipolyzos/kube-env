@@ -18,7 +18,6 @@ The tools that are downloaded during env initialisation are:
  - [Kubetail](https://github.com/johanhaleby/kubetail)
  - [Kubespy](https://github.com/pulumi/kubespy)
  - [Kui](https://github.com/IBM/kui)
- - [Stern](https://github.com/wercker/stern)
  - [Minikube](https://github.com/kubernetes/minikube)
  - [Minishift](https://github.com/minishift/minishift)
 
