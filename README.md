@@ -21,7 +21,7 @@ The tools that are downloaded during env initialisation are:
  - [Stern](https://github.com/wercker/stern)	
  - [Minikube](https://github.com/kubernetes/minikube)
  - [Minishift](https://github.com/minishift/minishift)
-
+ - [Skaffold](https://github.com/GoogleContainerTools/skaffold)
 # Install
 
  To install the project you just need to copy the `.envrc` file in your workspace folder.
